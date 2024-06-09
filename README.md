@@ -1,5 +1,7 @@
 # NotYourAndroid
 
+![image](https://github.com/collin-rxr/notyourandroid/assets/141531740/58ca7bec-c2c0-4e14-baa4-f0b905f83b7c)
+
 ## Setup
 Install the dependencies by running `pip install -r requirements.txt` and do python app.py to run the script.
 
