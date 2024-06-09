@@ -1,4 +1,5 @@
 # NotYourAndroid
+MyAndroid.org Server Finder written in Python
 
 ![image](https://github.com/collin-rxr/notyourandroid/assets/141531740/58ca7bec-c2c0-4e14-baa4-f0b905f83b7c)
 
