@@ -15,5 +15,5 @@ When trying to connect to a Server, MyAndroid first sends a Request to generate 
 
 MyAndroid has 6 Servers in total. Their Usernames are `guest01` - `guest06` and their Passwords are `server0101` - `server0106`. By repeating the earlier mentioned Request we find out which Servers nobody is connected to. Because we know how many Servers there are, we can simply remove the ones that nobody is connected to and end up with the ones that People are connected to.
 
-Commiting
+## Commiting
 If you have added any Features or fixed any Bugs, feel free to open a Pull Request with your changes and after we review it, it gets merged into the main Branch
